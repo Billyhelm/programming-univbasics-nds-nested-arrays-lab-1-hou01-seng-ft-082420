@@ -38,6 +38,7 @@ def sorted_matrix
   "Grapes",
   "Avocadoes",
   "Asparagus"]
+  store_room.sort!
     
 end
 
